@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\alank\source\repos\Synth\main.cpp(8,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alank\source\repos\Synth\main.cpp(36,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alank\source\repos\Synth\main.cpp(37,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 317 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  synth.vcxproj -> C:\Users\alank\source\repos\synth\x64\Release\synth.exe
